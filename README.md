@@ -1,10 +1,6 @@
-# Puppeteer Ecommerce Scraper
+# Ecommerce Scraper using Puppeteer
 
-> Demo: https://youtu.be/KOoI-CLNHxU
-
-This is a flexible web scraper for extracting product data from various e-commerce websites:
-- It uses high-level API from [Puppeteer](https://github.com/puppeteer/puppeteer) to control **Chrome** or **Chromium**, making it capable of extracting data from websites that dynamically load content using JavaScript. 
-- This scraper is also designed to handle pagination and bot detection, along with the use of [puppeteer-cluster](https://github.com/thomasdondorf/puppeteer-cluster) for efficient and parallel scraping.
+Hello there. This is recreated for you(upwork client in this job: https://www.upwork.com/jobs/~021926790857815789240)
 
 ```sh
 npm i puppeteer-ecommerce-scraper
